@@ -12,7 +12,7 @@ JobSphere is a job listing and application platform designed to connect job seek
 ## Tech Stack
 
 - **Frontend**: React, TypeScript, Bootstrap
-- **Backend**: Node.js, Express (if applicable)
+- **Backend**: Node.js, Express
 - **State Management**: Redux Toolkit
 
 
